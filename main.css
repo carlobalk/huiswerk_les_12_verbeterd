@@ -1,0 +1,69 @@
+header{
+    background-color: orange;
+    width: 100%;
+    height: 200px;
+}
+footer{ 
+    background-color: navy;
+    width: 100%;
+    height: 200px;
+}
+table, th, td {
+    border: 1px solid;
+  }
+#a1{
+    color: aqua;
+    background-color: gold;
+}
+#b1{
+    background-color: crimson;
+}
+#c1{
+    color: bisque;
+    background-color: grey;
+}
+#d1{
+    background-color: red;
+}
+#a2{
+    color: darkcyan;
+    background-color: darkgreen;
+}
+#b2{
+    background-color: olive;
+}
+#c2{
+    color: ghostwhite;
+    background-color: slategray;
+}
+#d2{
+    background-color: darkslategray;
+}
+#a3{
+    color: lightgreen;
+    background-color: ghostwhite;
+}
+#b3{
+    background-color: coral;
+}
+#c3{
+    color: lightsalmon;
+    background-color: purple;
+}
+#d3{
+    background-color: darkviolet;
+}
+#a4{
+    color: mediumslateblue;
+    background-color: navajowhite;
+}
+#b4{
+    background-color: sienna;
+}
+#c4{
+    color: violet;
+    background-color: teal;
+}
+#d4{
+    background-color: blue;
+}
